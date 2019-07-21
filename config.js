@@ -1,19 +1,23 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://melvindave.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Personal Blog by Melvin Vivas',
+  subtitle: 'Welcome to my Personal Blog. Thoughts are my own.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 6,
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
       label: 'Articles',
       path: '/'
+    },
+    {
+      label: 'Topics',
+      path: '/categories'
     },
     {
       label: 'About me',
@@ -25,16 +29,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Melvin Vvivas',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Developer',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      twitter: 'https://twitter.com/donvito',
+      github: 'https://github.com/donvito',
     }
   }
 };
