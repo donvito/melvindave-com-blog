@@ -20,18 +20,19 @@ If you're purchasing from an online shop in a different country, for sure your c
 
 Here are useful tools to calculate how much you're going to be charged.
 
+**Visa's Exchange Rate Calculator**
+http://www.visaeurope.com/making-payments/exchange-rates
 
-```
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
-```
+![Visa's Exchange Rate Calculator](/media/exchange-rates-1.jpg "Visa's Exchange Rate Calculator")
 
+**Mastercard's Currency Conversion Tool**
+https://www.mastercard.com/global/currencyconversion/
+
+![Visa's Exchange Rate Calculator](/media/welcome-to-mastercard_s-currency-conversion-tool-mastercard-.jpg "Visa's Exchange Rate Calculator")
 
 For bank admin fees for example, you can check out your bank's website. Here's where you can find Citibank(Singapore) rates: https://www.citibank.com.sg/gcb/static/banking_fees.htm
 
->Just to be sure, also check if your bank has extra fees when you are using your credit card to purchase in another currency. So far Citibank has been straightforward and does not charge additional fees besides the standard admin fee.
+> Just to be sure, also check if your bank has extra fees when you are using your credit card to purchase in another currency. So far Citibank has been straightforward and does not charge additional fees besides the standard admin fee.
 
 Hope this helps! 
 
