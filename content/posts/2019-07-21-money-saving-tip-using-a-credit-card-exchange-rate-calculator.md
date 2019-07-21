@@ -2,7 +2,7 @@
 template: post
 title: 'Money-saving tip, Using a Credit Card Exchange Rate Calculator'
 slug: /money-saving-tips
-draft: true
+draft: false
 date: 2019-07-21T06:44:25.465Z
 description: >-
   If you're purchasing from an online shop in a different country, for sure your
