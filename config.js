@@ -35,6 +35,10 @@ module.exports = {
     contacts: {
       twitter: 'https://twitter.com/donvito',
       github: 'https://github.com/donvito',
+      email: '#',
+      telegram: '#',
+      rss: '#',
+      vkontakte: '#'
     }
   }
 };
