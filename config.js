@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Welcome to my Personal Blog. Thoughts are my own.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 6,
+  postsPerPage: 8,
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
@@ -29,12 +29,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Melvin Vvivas',
+    name: 'Melvin Vivas',
     photo: '/photo.jpg',
     bio: 'Software Developer',
     contacts: {
-      twitter: 'https://twitter.com/donvito',
-      github: 'https://github.com/donvito',
+      twitter: 'donvito',
+      github: 'donvito',
       email: '#',
       telegram: '#',
       rss: '#',
