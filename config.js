@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://melvindave.netlify.com',
+  url: 'https://www.melvindave.com',
   pathPrefix: '/',
-  title: 'Personal Blog by Melvin Vivas',
+  title: 'Personal Blog by Melvin Dave Vivas',
   subtitle: 'Welcome to my Personal Blog. Thoughts are my own.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'melvin-vivas-personal-thoughts-and-photography',
   postsPerPage: 8,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-1569239-2',
   useKatex: false,
   menu: [
     {
