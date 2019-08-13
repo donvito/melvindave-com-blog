@@ -25,9 +25,9 @@ module.exports = {
     },
   ],
   author: {
-    name: 'Melvin Vivas',
+    name: 'Melvin Dave Vivas',
     photo: '/photo.jpg',
-    bio: 'Software Developer',
+    bio: 'I am a Pinoy living in Singapore.  Thoughts here in my blog are my own.',
     contacts: {
       twitter: 'donvito',
       github: 'donvito',
