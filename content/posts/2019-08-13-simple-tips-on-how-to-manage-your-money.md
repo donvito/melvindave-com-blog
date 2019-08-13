@@ -4,7 +4,9 @@ title: Simple tips on How to Manage your Money
 slug: simple-tips-how-to-manage-your-money
 draft: false
 date: 2019-08-03T16:00:00.000Z
-description: Simple tips on How to Manage your Money
+description: >-
+  I'm not a finance guru, but here are some thoughts on managing our money.
+  Might help you now or in the future.
 category: finance
 tags:
   - finance
