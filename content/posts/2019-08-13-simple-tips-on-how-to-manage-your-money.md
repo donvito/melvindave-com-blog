@@ -2,7 +2,7 @@
 template: post
 title: Simple tips on How to Manage your Money
 slug: simple-tips-how-to-manage-your-money
-draft: true
+draft: false
 date: 2019-08-03T16:00:00.000Z
 description: Simple tips on How to Manage your Money
 category: finance
