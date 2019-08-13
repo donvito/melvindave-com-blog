@@ -2,7 +2,7 @@
 template: post
 title: 8 Quick Tips to Shoot Better Photos
 slug: 8-quick-tips-shoot-better-photos
-draft: true
+draft: false
 date: 2013-08-20T04:29:00.000Z
 description: 8 Quick Tips to Shoot Better Photos
 category: photography
